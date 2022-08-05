@@ -10,7 +10,7 @@ body{
     border-bottom: inset;
 }
 .container{
-    display:contents;
+    display: contents;
 }
 .header-logo{
     float: left;
