@@ -9,6 +9,9 @@ body{
     border-bottom-color: gray;
     border-bottom: inset;
 }
+.container{
+    display:contents;
+}
 .header-logo{
     float: left;
     width: 10%;
